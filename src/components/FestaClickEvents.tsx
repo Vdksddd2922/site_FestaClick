@@ -21,8 +21,6 @@ const FestaClickEvents = () => {
     ],
   ];
 
-  const allEvents = eventRows.flat();
-
   return (
     <section className="py-24 md:py-32 bg-festa-dark border-t border-white/5 relative overflow-hidden">
       {/* Glow */}
